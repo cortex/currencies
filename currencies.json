@@ -1,0 +1,2226 @@
+[
+    {
+        "Number": 971,
+        "Code": "AFN",
+        "Country": "AFGHANISTAN",
+        "Symbol": null,
+        "Name": "Afghani",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 978,
+        "Code": "EUR",
+        "Country": "ÅLAND ISLANDS",
+        "Symbol": "€",
+        "Name": "Euro",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 8,
+        "Code": "ALL",
+        "Country": "ALBANIA",
+        "Symbol": null,
+        "Name": "Lek",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 12,
+        "Code": "DZD",
+        "Country": "ALGERIA",
+        "Symbol": null,
+        "Name": "Algerian Dinar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 840,
+        "Code": "USD",
+        "Country": "AMERICAN SAMOA",
+        "Symbol": "$",
+        "Name": "US Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 978,
+        "Code": "EUR",
+        "Country": "ANDORRA",
+        "Symbol": "€",
+        "Name": "Euro",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 973,
+        "Code": "AOA",
+        "Country": "ANGOLA",
+        "Symbol": "Kz",
+        "Name": "Kwanza",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 951,
+        "Code": "XCD",
+        "Country": "ANGUILLA",
+        "Symbol": "$",
+        "Name": "East Caribbean Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": null,
+        "Code": null,
+        "Country": "ANTARCTICA",
+        "Symbol": null,
+        "Name": "No universal currency",
+        "MinorUnits": null
+    },
+    {
+        "Number": 951,
+        "Code": "XCD",
+        "Country": "ANTIGUA AND BARBUDA",
+        "Symbol": "$",
+        "Name": "East Caribbean Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 32,
+        "Code": "ARS",
+        "Country": "ARGENTINA",
+        "Symbol": "$",
+        "Name": "Argentine Peso",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 51,
+        "Code": "AMD",
+        "Country": "ARMENIA",
+        "Symbol": null,
+        "Name": "Armenian Dram",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 533,
+        "Code": "AWG",
+        "Country": "ARUBA",
+        "Symbol": null,
+        "Name": "Aruban Florin",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 36,
+        "Code": "AUD",
+        "Country": "AUSTRALIA",
+        "Symbol": "$",
+        "Name": "Australian Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 978,
+        "Code": "EUR",
+        "Country": "AUSTRIA",
+        "Symbol": "€",
+        "Name": "Euro",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 944,
+        "Code": "AZN",
+        "Country": "AZERBAIJAN",
+        "Symbol": null,
+        "Name": "Azerbaijanian Manat",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 44,
+        "Code": "BSD",
+        "Country": "BAHAMAS (THE)",
+        "Symbol": "$",
+        "Name": "Bahamian Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 48,
+        "Code": "BHD",
+        "Country": "BAHRAIN",
+        "Symbol": null,
+        "Name": "Bahraini Dinar",
+        "MinorUnits": 3
+    },
+    {
+        "Number": 50,
+        "Code": "BDT",
+        "Country": "BANGLADESH",
+        "Symbol": "৳",
+        "Name": "Taka",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 52,
+        "Code": "BBD",
+        "Country": "BARBADOS",
+        "Symbol": "$",
+        "Name": "Barbados Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 974,
+        "Code": "BYR",
+        "Country": "BELARUS",
+        "Symbol": "р.",
+        "Name": "Belarussian Ruble",
+        "MinorUnits": 0
+    },
+    {
+        "Number": 978,
+        "Code": "EUR",
+        "Country": "BELGIUM",
+        "Symbol": "€",
+        "Name": "Euro",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 84,
+        "Code": "BZD",
+        "Country": "BELIZE",
+        "Symbol": "$",
+        "Name": "Belize Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 952,
+        "Code": "XOF",
+        "Country": "BENIN",
+        "Symbol": null,
+        "Name": "CFA Franc BCEAO",
+        "MinorUnits": 0
+    },
+    {
+        "Number": 60,
+        "Code": "BMD",
+        "Country": "BERMUDA",
+        "Symbol": "$",
+        "Name": "Bermudian Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 64,
+        "Code": "BTN",
+        "Country": "BHUTAN",
+        "Symbol": null,
+        "Name": "Ngultrum",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 356,
+        "Code": "INR",
+        "Country": "BHUTAN",
+        "Symbol": "₹",
+        "Name": "Indian Rupee",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 68,
+        "Code": "BOB",
+        "Country": "BOLIVIA (PLURINATIONAL STATE OF)",
+        "Symbol": "Bs",
+        "Name": "Boliviano",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 984,
+        "Code": "BOV",
+        "Country": "BOLIVIA (PLURINATIONAL STATE OF)",
+        "Symbol": null,
+        "Name": "Mvdol",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 840,
+        "Code": "USD",
+        "Country": "BONAIRE, SINT EUSTATIUS AND SABA",
+        "Symbol": "$",
+        "Name": "US Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 977,
+        "Code": "BAM",
+        "Country": "BOSNIA AND HERZEGOVINA",
+        "Symbol": "KM",
+        "Name": "Convertible Mark",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 72,
+        "Code": "BWP",
+        "Country": "BOTSWANA",
+        "Symbol": "P",
+        "Name": "Pula",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 578,
+        "Code": "NOK",
+        "Country": "BOUVET ISLAND",
+        "Symbol": "kr",
+        "Name": "Norwegian Krone",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 986,
+        "Code": "BRL",
+        "Country": "BRAZIL",
+        "Symbol": "R$",
+        "Name": "Brazilian Real",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 840,
+        "Code": "USD",
+        "Country": "BRITISH INDIAN OCEAN TERRITORY (THE)",
+        "Symbol": "$",
+        "Name": "US Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 96,
+        "Code": "BND",
+        "Country": "BRUNEI DARUSSALAM",
+        "Symbol": "$",
+        "Name": "Brunei Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 975,
+        "Code": "BGN",
+        "Country": "BULGARIA",
+        "Symbol": null,
+        "Name": "Bulgarian Lev",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 952,
+        "Code": "XOF",
+        "Country": "BURKINA FASO",
+        "Symbol": null,
+        "Name": "CFA Franc BCEAO",
+        "MinorUnits": 0
+    },
+    {
+        "Number": 108,
+        "Code": "BIF",
+        "Country": "BURUNDI",
+        "Symbol": null,
+        "Name": "Burundi Franc",
+        "MinorUnits": 0
+    },
+    {
+        "Number": 132,
+        "Code": "CVE",
+        "Country": "CABO VERDE",
+        "Symbol": null,
+        "Name": "Cabo Verde Escudo",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 116,
+        "Code": "KHR",
+        "Country": "CAMBODIA",
+        "Symbol": "៛",
+        "Name": "Riel",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 950,
+        "Code": "XAF",
+        "Country": "CAMEROON",
+        "Symbol": null,
+        "Name": "CFA Franc BEAC",
+        "MinorUnits": 0
+    },
+    {
+        "Number": 124,
+        "Code": "CAD",
+        "Country": "CANADA",
+        "Symbol": "$",
+        "Name": "Canadian Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 136,
+        "Code": "KYD",
+        "Country": "CAYMAN ISLANDS (THE)",
+        "Symbol": "$",
+        "Name": "Cayman Islands Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 950,
+        "Code": "XAF",
+        "Country": "CENTRAL AFRICAN REPUBLIC (THE)",
+        "Symbol": null,
+        "Name": "CFA Franc BEAC",
+        "MinorUnits": 0
+    },
+    {
+        "Number": 950,
+        "Code": "XAF",
+        "Country": "CHAD",
+        "Symbol": null,
+        "Name": "CFA Franc BEAC",
+        "MinorUnits": 0
+    },
+    {
+        "Number": 990,
+        "Code": "CLF",
+        "Country": "CHILE",
+        "Symbol": null,
+        "Name": "Unidad de Fomento",
+        "MinorUnits": 4
+    },
+    {
+        "Number": 152,
+        "Code": "CLP",
+        "Country": "CHILE",
+        "Symbol": "$",
+        "Name": "Chilean Peso",
+        "MinorUnits": 0
+    },
+    {
+        "Number": 156,
+        "Code": "CNY",
+        "Country": "CHINA",
+        "Symbol": "¥",
+        "Name": "Yuan Renminbi",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 36,
+        "Code": "AUD",
+        "Country": "CHRISTMAS ISLAND",
+        "Symbol": "$",
+        "Name": "Australian Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 36,
+        "Code": "AUD",
+        "Country": "COCOS (KEELING) ISLANDS (THE)",
+        "Symbol": "$",
+        "Name": "Australian Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 170,
+        "Code": "COP",
+        "Country": "COLOMBIA",
+        "Symbol": "$",
+        "Name": "Colombian Peso",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 970,
+        "Code": "COU",
+        "Country": "COLOMBIA",
+        "Symbol": null,
+        "Name": "Unidad de Valor Real",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 174,
+        "Code": "KMF",
+        "Country": "COMOROS (THE)",
+        "Symbol": "CF",
+        "Name": "Comoro Franc",
+        "MinorUnits": 0
+    },
+    {
+        "Number": 976,
+        "Code": "CDF",
+        "Country": "CONGO (THE DEMOCRATIC REPUBLIC OF THE)",
+        "Symbol": null,
+        "Name": "Congolese Franc",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 950,
+        "Code": "XAF",
+        "Country": "CONGO (THE)",
+        "Symbol": null,
+        "Name": "CFA Franc BEAC",
+        "MinorUnits": 0
+    },
+    {
+        "Number": 554,
+        "Code": "NZD",
+        "Country": "COOK ISLANDS (THE)",
+        "Symbol": "$",
+        "Name": "New Zealand Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 188,
+        "Code": "CRC",
+        "Country": "COSTA RICA",
+        "Symbol": "₡",
+        "Name": "Costa Rican Colon",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 952,
+        "Code": "XOF",
+        "Country": "CÔTE D'IVOIRE",
+        "Symbol": null,
+        "Name": "CFA Franc BCEAO",
+        "MinorUnits": 0
+    },
+    {
+        "Number": 191,
+        "Code": "HRK",
+        "Country": "CROATIA",
+        "Symbol": "kn",
+        "Name": "Kuna",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 931,
+        "Code": "CUC",
+        "Country": "CUBA",
+        "Symbol": "$",
+        "Name": "Peso Convertible",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 192,
+        "Code": "CUP",
+        "Country": "CUBA",
+        "Symbol": "$",
+        "Name": "Cuban Peso",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 532,
+        "Code": "ANG",
+        "Country": "CURAÇAO",
+        "Symbol": null,
+        "Name": "Netherlands Antillean Guilder",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 978,
+        "Code": "EUR",
+        "Country": "CYPRUS",
+        "Symbol": "€",
+        "Name": "Euro",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 203,
+        "Code": "CZK",
+        "Country": "CZECH REPUBLIC (THE)",
+        "Symbol": "Kč",
+        "Name": "Czech Koruna",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 208,
+        "Code": "DKK",
+        "Country": "DENMARK",
+        "Symbol": "kr",
+        "Name": "Danish Krone",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 262,
+        "Code": "DJF",
+        "Country": "DJIBOUTI",
+        "Symbol": null,
+        "Name": "Djibouti Franc",
+        "MinorUnits": 0
+    },
+    {
+        "Number": 951,
+        "Code": "XCD",
+        "Country": "DOMINICA",
+        "Symbol": "$",
+        "Name": "East Caribbean Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 214,
+        "Code": "DOP",
+        "Country": "DOMINICAN REPUBLIC (THE)",
+        "Symbol": "$",
+        "Name": "Dominican Peso",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 840,
+        "Code": "USD",
+        "Country": "ECUADOR",
+        "Symbol": "$",
+        "Name": "US Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 818,
+        "Code": "EGP",
+        "Country": "EGYPT",
+        "Symbol": "E£",
+        "Name": "Egyptian Pound",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 222,
+        "Code": "SVC",
+        "Country": "EL SALVADOR",
+        "Symbol": null,
+        "Name": "El Salvador Colon",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 840,
+        "Code": "USD",
+        "Country": "EL SALVADOR",
+        "Symbol": "$",
+        "Name": "US Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 950,
+        "Code": "XAF",
+        "Country": "EQUATORIAL GUINEA",
+        "Symbol": null,
+        "Name": "CFA Franc BEAC",
+        "MinorUnits": 0
+    },
+    {
+        "Number": 232,
+        "Code": "ERN",
+        "Country": "ERITREA",
+        "Symbol": null,
+        "Name": "Nakfa",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 978,
+        "Code": "EUR",
+        "Country": "ESTONIA",
+        "Symbol": "€",
+        "Name": "Euro",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 230,
+        "Code": "ETB",
+        "Country": "ETHIOPIA",
+        "Symbol": null,
+        "Name": "Ethiopian Birr",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 978,
+        "Code": "EUR",
+        "Country": "EUROPEAN UNION",
+        "Symbol": "€",
+        "Name": "Euro",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 238,
+        "Code": "FKP",
+        "Country": "FALKLAND ISLANDS (THE) [MALVINAS]",
+        "Symbol": "£",
+        "Name": "Falkland Islands Pound",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 208,
+        "Code": "DKK",
+        "Country": "FAROE ISLANDS (THE)",
+        "Symbol": "kr",
+        "Name": "Danish Krone",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 242,
+        "Code": "FJD",
+        "Country": "FIJI",
+        "Symbol": "$",
+        "Name": "Fiji Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 978,
+        "Code": "EUR",
+        "Country": "FINLAND",
+        "Symbol": "€",
+        "Name": "Euro",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 978,
+        "Code": "EUR",
+        "Country": "FRANCE",
+        "Symbol": "€",
+        "Name": "Euro",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 978,
+        "Code": "EUR",
+        "Country": "FRENCH GUIANA",
+        "Symbol": "€",
+        "Name": "Euro",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 953,
+        "Code": "XPF",
+        "Country": "FRENCH POLYNESIA",
+        "Symbol": null,
+        "Name": "CFP Franc",
+        "MinorUnits": 0
+    },
+    {
+        "Number": 978,
+        "Code": "EUR",
+        "Country": "FRENCH SOUTHERN TERRITORIES (THE)",
+        "Symbol": "€",
+        "Name": "Euro",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 950,
+        "Code": "XAF",
+        "Country": "GABON",
+        "Symbol": null,
+        "Name": "CFA Franc BEAC",
+        "MinorUnits": 0
+    },
+    {
+        "Number": 270,
+        "Code": "GMD",
+        "Country": "GAMBIA (THE)",
+        "Symbol": null,
+        "Name": "Dalasi",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 981,
+        "Code": "GEL",
+        "Country": "GEORGIA",
+        "Symbol": null,
+        "Name": "Lari",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 978,
+        "Code": "EUR",
+        "Country": "GERMANY",
+        "Symbol": "€",
+        "Name": "Euro",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 936,
+        "Code": "GHS",
+        "Country": "GHANA",
+        "Symbol": null,
+        "Name": "Ghana Cedi",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 292,
+        "Code": "GIP",
+        "Country": "GIBRALTAR",
+        "Symbol": "£",
+        "Name": "Gibraltar Pound",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 978,
+        "Code": "EUR",
+        "Country": "GREECE",
+        "Symbol": "€",
+        "Name": "Euro",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 208,
+        "Code": "DKK",
+        "Country": "GREENLAND",
+        "Symbol": "kr",
+        "Name": "Danish Krone",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 951,
+        "Code": "XCD",
+        "Country": "GRENADA",
+        "Symbol": "$",
+        "Name": "East Caribbean Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 978,
+        "Code": "EUR",
+        "Country": "GUADELOUPE",
+        "Symbol": "€",
+        "Name": "Euro",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 840,
+        "Code": "USD",
+        "Country": "GUAM",
+        "Symbol": "$",
+        "Name": "US Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 320,
+        "Code": "GTQ",
+        "Country": "GUATEMALA",
+        "Symbol": "Q",
+        "Name": "Quetzal",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 826,
+        "Code": "GBP",
+        "Country": "GUERNSEY",
+        "Symbol": "£",
+        "Name": "Pound Sterling",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 324,
+        "Code": "GNF",
+        "Country": "GUINEA",
+        "Symbol": "FG",
+        "Name": "Guinea Franc",
+        "MinorUnits": 0
+    },
+    {
+        "Number": 952,
+        "Code": "XOF",
+        "Country": "GUINEA-BISSAU",
+        "Symbol": null,
+        "Name": "CFA Franc BCEAO",
+        "MinorUnits": 0
+    },
+    {
+        "Number": 328,
+        "Code": "GYD",
+        "Country": "GUYANA",
+        "Symbol": "$",
+        "Name": "Guyana Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 332,
+        "Code": "HTG",
+        "Country": "HAITI",
+        "Symbol": null,
+        "Name": "Gourde",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 840,
+        "Code": "USD",
+        "Country": "HAITI",
+        "Symbol": "$",
+        "Name": "US Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 36,
+        "Code": "AUD",
+        "Country": "HEARD ISLAND AND McDONALD ISLANDS",
+        "Symbol": "$",
+        "Name": "Australian Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 978,
+        "Code": "EUR",
+        "Country": "HOLY SEE (THE)",
+        "Symbol": "€",
+        "Name": "Euro",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 340,
+        "Code": "HNL",
+        "Country": "HONDURAS",
+        "Symbol": "L",
+        "Name": "Lempira",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 344,
+        "Code": "HKD",
+        "Country": "HONG KONG",
+        "Symbol": "$",
+        "Name": "Hong Kong Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 348,
+        "Code": "HUF",
+        "Country": "HUNGARY",
+        "Symbol": "Ft",
+        "Name": "Forint",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 352,
+        "Code": "ISK",
+        "Country": "ICELAND",
+        "Symbol": "kr",
+        "Name": "Iceland Krona",
+        "MinorUnits": 0
+    },
+    {
+        "Number": 356,
+        "Code": "INR",
+        "Country": "INDIA",
+        "Symbol": "₹",
+        "Name": "Indian Rupee",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 360,
+        "Code": "IDR",
+        "Country": "INDONESIA",
+        "Symbol": "Rp",
+        "Name": "Rupiah",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 960,
+        "Code": "XDR",
+        "Country": "INTERNATIONAL MONETARY FUND (IMF) ",
+        "Symbol": null,
+        "Name": "SDR (Special Drawing Right)",
+        "MinorUnits": null
+    },
+    {
+        "Number": 364,
+        "Code": "IRR",
+        "Country": "IRAN (ISLAMIC REPUBLIC OF)",
+        "Symbol": null,
+        "Name": "Iranian Rial",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 368,
+        "Code": "IQD",
+        "Country": "IRAQ",
+        "Symbol": null,
+        "Name": "Iraqi Dinar",
+        "MinorUnits": 3
+    },
+    {
+        "Number": 978,
+        "Code": "EUR",
+        "Country": "IRELAND",
+        "Symbol": "€",
+        "Name": "Euro",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 826,
+        "Code": "GBP",
+        "Country": "ISLE OF MAN",
+        "Symbol": "£",
+        "Name": "Pound Sterling",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 376,
+        "Code": "ILS",
+        "Country": "ISRAEL",
+        "Symbol": "₪",
+        "Name": "New Israeli Sheqel",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 978,
+        "Code": "EUR",
+        "Country": "ITALY",
+        "Symbol": "€",
+        "Name": "Euro",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 388,
+        "Code": "JMD",
+        "Country": "JAMAICA",
+        "Symbol": "$",
+        "Name": "Jamaican Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 392,
+        "Code": "JPY",
+        "Country": "JAPAN",
+        "Symbol": "¥",
+        "Name": "Yen",
+        "MinorUnits": 0
+    },
+    {
+        "Number": 826,
+        "Code": "GBP",
+        "Country": "JERSEY",
+        "Symbol": "£",
+        "Name": "Pound Sterling",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 400,
+        "Code": "JOD",
+        "Country": "JORDAN",
+        "Symbol": null,
+        "Name": "Jordanian Dinar",
+        "MinorUnits": 3
+    },
+    {
+        "Number": 398,
+        "Code": "KZT",
+        "Country": "KAZAKHSTAN",
+        "Symbol": "₸",
+        "Name": "Tenge",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 404,
+        "Code": "KES",
+        "Country": "KENYA",
+        "Symbol": null,
+        "Name": "Kenyan Shilling",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 36,
+        "Code": "AUD",
+        "Country": "KIRIBATI",
+        "Symbol": "$",
+        "Name": "Australian Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 408,
+        "Code": "KPW",
+        "Country": "KOREA (THE DEMOCRATIC PEOPLE’S REPUBLIC OF)",
+        "Symbol": "₩",
+        "Name": "North Korean Won",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 410,
+        "Code": "KRW",
+        "Country": "KOREA (THE REPUBLIC OF)",
+        "Symbol": "₩",
+        "Name": "Won",
+        "MinorUnits": 0
+    },
+    {
+        "Number": 414,
+        "Code": "KWD",
+        "Country": "KUWAIT",
+        "Symbol": null,
+        "Name": "Kuwaiti Dinar",
+        "MinorUnits": 3
+    },
+    {
+        "Number": 417,
+        "Code": "KGS",
+        "Country": "KYRGYZSTAN",
+        "Symbol": null,
+        "Name": "Som",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 418,
+        "Code": "LAK",
+        "Country": "LAO PEOPLE’S DEMOCRATIC REPUBLIC (THE)",
+        "Symbol": "₭",
+        "Name": "Kip",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 978,
+        "Code": "EUR",
+        "Country": "LATVIA",
+        "Symbol": "€",
+        "Name": "Euro",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 422,
+        "Code": "LBP",
+        "Country": "LEBANON",
+        "Symbol": "L£",
+        "Name": "Lebanese Pound",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 426,
+        "Code": "LSL",
+        "Country": "LESOTHO",
+        "Symbol": null,
+        "Name": "Loti",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 710,
+        "Code": "ZAR",
+        "Country": "LESOTHO",
+        "Symbol": "R",
+        "Name": "Rand",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 430,
+        "Code": "LRD",
+        "Country": "LIBERIA",
+        "Symbol": "$",
+        "Name": "Liberian Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 434,
+        "Code": "LYD",
+        "Country": "LIBYA",
+        "Symbol": null,
+        "Name": "Libyan Dinar",
+        "MinorUnits": 3
+    },
+    {
+        "Number": 756,
+        "Code": "CHF",
+        "Country": "LIECHTENSTEIN",
+        "Symbol": null,
+        "Name": "Swiss Franc",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 978,
+        "Code": "EUR",
+        "Country": "LITHUANIA",
+        "Symbol": "€",
+        "Name": "Euro",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 978,
+        "Code": "EUR",
+        "Country": "LUXEMBOURG",
+        "Symbol": "€",
+        "Name": "Euro",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 446,
+        "Code": "MOP",
+        "Country": "MACAO",
+        "Symbol": null,
+        "Name": "Pataca",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 807,
+        "Code": "MKD",
+        "Country": "MACEDONIA (THE FORMER YUGOSLAV REPUBLIC OF)",
+        "Symbol": null,
+        "Name": "Denar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 969,
+        "Code": "MGA",
+        "Country": "MADAGASCAR",
+        "Symbol": "Ar",
+        "Name": "Malagasy Ariary",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 454,
+        "Code": "MWK",
+        "Country": "MALAWI",
+        "Symbol": null,
+        "Name": "Kwacha",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 458,
+        "Code": "MYR",
+        "Country": "MALAYSIA",
+        "Symbol": "RM",
+        "Name": "Malaysian Ringgit",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 462,
+        "Code": "MVR",
+        "Country": "MALDIVES",
+        "Symbol": null,
+        "Name": "Rufiyaa",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 952,
+        "Code": "XOF",
+        "Country": "MALI",
+        "Symbol": null,
+        "Name": "CFA Franc BCEAO",
+        "MinorUnits": 0
+    },
+    {
+        "Number": 978,
+        "Code": "EUR",
+        "Country": "MALTA",
+        "Symbol": "€",
+        "Name": "Euro",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 840,
+        "Code": "USD",
+        "Country": "MARSHALL ISLANDS (THE)",
+        "Symbol": "$",
+        "Name": "US Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 978,
+        "Code": "EUR",
+        "Country": "MARTINIQUE",
+        "Symbol": "€",
+        "Name": "Euro",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 478,
+        "Code": "MRO",
+        "Country": "MAURITANIA",
+        "Symbol": null,
+        "Name": "Ouguiya",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 480,
+        "Code": "MUR",
+        "Country": "MAURITIUS",
+        "Symbol": "Rs",
+        "Name": "Mauritius Rupee",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 978,
+        "Code": "EUR",
+        "Country": "MAYOTTE",
+        "Symbol": "€",
+        "Name": "Euro",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 965,
+        "Code": "XUA",
+        "Country": "MEMBER COUNTRIES OF THE AFRICAN DEVELOPMENT BANK GROUP",
+        "Symbol": null,
+        "Name": "ADB Unit of Account",
+        "MinorUnits": null
+    },
+    {
+        "Number": 484,
+        "Code": "MXN",
+        "Country": "MEXICO",
+        "Symbol": "$",
+        "Name": "Mexican Peso",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 979,
+        "Code": "MXV",
+        "Country": "MEXICO",
+        "Symbol": null,
+        "Name": "Mexican Unidad de Inversion (UDI)",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 840,
+        "Code": "USD",
+        "Country": "MICRONESIA (FEDERATED STATES OF)",
+        "Symbol": "$",
+        "Name": "US Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 498,
+        "Code": "MDL",
+        "Country": "MOLDOVA (THE REPUBLIC OF)",
+        "Symbol": null,
+        "Name": "Moldovan Leu",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 978,
+        "Code": "EUR",
+        "Country": "MONACO",
+        "Symbol": "€",
+        "Name": "Euro",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 496,
+        "Code": "MNT",
+        "Country": "MONGOLIA",
+        "Symbol": "₮",
+        "Name": "Tugrik",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 978,
+        "Code": "EUR",
+        "Country": "MONTENEGRO",
+        "Symbol": "€",
+        "Name": "Euro",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 951,
+        "Code": "XCD",
+        "Country": "MONTSERRAT",
+        "Symbol": "$",
+        "Name": "East Caribbean Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 504,
+        "Code": "MAD",
+        "Country": "MOROCCO",
+        "Symbol": null,
+        "Name": "Moroccan Dirham",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 943,
+        "Code": "MZN",
+        "Country": "MOZAMBIQUE",
+        "Symbol": null,
+        "Name": "Mozambique Metical",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 104,
+        "Code": "MMK",
+        "Country": "MYANMAR",
+        "Symbol": "K",
+        "Name": "Kyat",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 516,
+        "Code": "NAD",
+        "Country": "NAMIBIA",
+        "Symbol": "$",
+        "Name": "Namibia Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 710,
+        "Code": "ZAR",
+        "Country": "NAMIBIA",
+        "Symbol": "R",
+        "Name": "Rand",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 36,
+        "Code": "AUD",
+        "Country": "NAURU",
+        "Symbol": "$",
+        "Name": "Australian Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 524,
+        "Code": "NPR",
+        "Country": "NEPAL",
+        "Symbol": "Rs",
+        "Name": "Nepalese Rupee",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 978,
+        "Code": "EUR",
+        "Country": "NETHERLANDS (THE)",
+        "Symbol": "€",
+        "Name": "Euro",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 953,
+        "Code": "XPF",
+        "Country": "NEW CALEDONIA",
+        "Symbol": null,
+        "Name": "CFP Franc",
+        "MinorUnits": 0
+    },
+    {
+        "Number": 554,
+        "Code": "NZD",
+        "Country": "NEW ZEALAND",
+        "Symbol": "$",
+        "Name": "New Zealand Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 558,
+        "Code": "NIO",
+        "Country": "NICARAGUA",
+        "Symbol": "C$",
+        "Name": "Cordoba Oro",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 952,
+        "Code": "XOF",
+        "Country": "NIGER (THE)",
+        "Symbol": null,
+        "Name": "CFA Franc BCEAO",
+        "MinorUnits": 0
+    },
+    {
+        "Number": 566,
+        "Code": "NGN",
+        "Country": "NIGERIA",
+        "Symbol": "₦",
+        "Name": "Naira",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 554,
+        "Code": "NZD",
+        "Country": "NIUE",
+        "Symbol": "$",
+        "Name": "New Zealand Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 36,
+        "Code": "AUD",
+        "Country": "NORFOLK ISLAND",
+        "Symbol": "$",
+        "Name": "Australian Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 840,
+        "Code": "USD",
+        "Country": "NORTHERN MARIANA ISLANDS (THE)",
+        "Symbol": "$",
+        "Name": "US Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 578,
+        "Code": "NOK",
+        "Country": "NORWAY",
+        "Symbol": "kr",
+        "Name": "Norwegian Krone",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 512,
+        "Code": "OMR",
+        "Country": "OMAN",
+        "Symbol": null,
+        "Name": "Rial Omani",
+        "MinorUnits": 3
+    },
+    {
+        "Number": 586,
+        "Code": "PKR",
+        "Country": "PAKISTAN",
+        "Symbol": "Rs",
+        "Name": "Pakistan Rupee",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 840,
+        "Code": "USD",
+        "Country": "PALAU",
+        "Symbol": "$",
+        "Name": "US Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": null,
+        "Code": null,
+        "Country": "PALESTINE, STATE OF",
+        "Symbol": null,
+        "Name": "No universal currency",
+        "MinorUnits": null
+    },
+    {
+        "Number": 590,
+        "Code": "PAB",
+        "Country": "PANAMA",
+        "Symbol": null,
+        "Name": "Balboa",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 840,
+        "Code": "USD",
+        "Country": "PANAMA",
+        "Symbol": "$",
+        "Name": "US Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 598,
+        "Code": "PGK",
+        "Country": "PAPUA NEW GUINEA",
+        "Symbol": null,
+        "Name": "Kina",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 600,
+        "Code": "PYG",
+        "Country": "PARAGUAY",
+        "Symbol": "₲",
+        "Name": "Guarani",
+        "MinorUnits": 0
+    },
+    {
+        "Number": 604,
+        "Code": "PEN",
+        "Country": "PERU",
+        "Symbol": null,
+        "Name": "Nuevo Sol",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 608,
+        "Code": "PHP",
+        "Country": "PHILIPPINES (THE)",
+        "Symbol": "₱",
+        "Name": "Philippine Peso",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 554,
+        "Code": "NZD",
+        "Country": "PITCAIRN",
+        "Symbol": "$",
+        "Name": "New Zealand Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 985,
+        "Code": "PLN",
+        "Country": "POLAND",
+        "Symbol": "zł",
+        "Name": "Zloty",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 978,
+        "Code": "EUR",
+        "Country": "PORTUGAL",
+        "Symbol": "€",
+        "Name": "Euro",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 840,
+        "Code": "USD",
+        "Country": "PUERTO RICO",
+        "Symbol": "$",
+        "Name": "US Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 634,
+        "Code": "QAR",
+        "Country": "QATAR",
+        "Symbol": null,
+        "Name": "Qatari Rial",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 978,
+        "Code": "EUR",
+        "Country": "RÉUNION",
+        "Symbol": "€",
+        "Name": "Euro",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 946,
+        "Code": "RON",
+        "Country": "ROMANIA",
+        "Symbol": null,
+        "Name": "Romanian Leu",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 643,
+        "Code": "RUB",
+        "Country": "RUSSIAN FEDERATION (THE)",
+        "Symbol": "₽",
+        "Name": "Russian Ruble",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 646,
+        "Code": "RWF",
+        "Country": "RWANDA",
+        "Symbol": "RF",
+        "Name": "Rwanda Franc",
+        "MinorUnits": 0
+    },
+    {
+        "Number": 978,
+        "Code": "EUR",
+        "Country": "SAINT BARTHÉLEMY",
+        "Symbol": "€",
+        "Name": "Euro",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 654,
+        "Code": "SHP",
+        "Country": "SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA",
+        "Symbol": "£",
+        "Name": "Saint Helena Pound",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 951,
+        "Code": "XCD",
+        "Country": "SAINT KITTS AND NEVIS",
+        "Symbol": "$",
+        "Name": "East Caribbean Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 951,
+        "Code": "XCD",
+        "Country": "SAINT LUCIA",
+        "Symbol": "$",
+        "Name": "East Caribbean Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 978,
+        "Code": "EUR",
+        "Country": "SAINT MARTIN (FRENCH PART)",
+        "Symbol": "€",
+        "Name": "Euro",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 978,
+        "Code": "EUR",
+        "Country": "SAINT PIERRE AND MIQUELON",
+        "Symbol": "€",
+        "Name": "Euro",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 951,
+        "Code": "XCD",
+        "Country": "SAINT VINCENT AND THE GRENADINES",
+        "Symbol": "$",
+        "Name": "East Caribbean Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 882,
+        "Code": "WST",
+        "Country": "SAMOA",
+        "Symbol": null,
+        "Name": "Tala",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 978,
+        "Code": "EUR",
+        "Country": "SAN MARINO",
+        "Symbol": "€",
+        "Name": "Euro",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 678,
+        "Code": "STD",
+        "Country": "SAO TOME AND PRINCIPE",
+        "Symbol": "Db",
+        "Name": "Dobra",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 682,
+        "Code": "SAR",
+        "Country": "SAUDI ARABIA",
+        "Symbol": null,
+        "Name": "Saudi Riyal",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 952,
+        "Code": "XOF",
+        "Country": "SENEGAL",
+        "Symbol": null,
+        "Name": "CFA Franc BCEAO",
+        "MinorUnits": 0
+    },
+    {
+        "Number": 941,
+        "Code": "RSD",
+        "Country": "SERBIA",
+        "Symbol": null,
+        "Name": "Serbian Dinar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 690,
+        "Code": "SCR",
+        "Country": "SEYCHELLES",
+        "Symbol": null,
+        "Name": "Seychelles Rupee",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 694,
+        "Code": "SLL",
+        "Country": "SIERRA LEONE",
+        "Symbol": null,
+        "Name": "Leone",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 702,
+        "Code": "SGD",
+        "Country": "SINGAPORE",
+        "Symbol": "$",
+        "Name": "Singapore Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 532,
+        "Code": "ANG",
+        "Country": "SINT MAARTEN (DUTCH PART)",
+        "Symbol": null,
+        "Name": "Netherlands Antillean Guilder",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 994,
+        "Code": "XSU",
+        "Country": "SISTEMA UNITARIO DE COMPENSACION REGIONAL DE PAGOS \"SUCRE\"",
+        "Symbol": null,
+        "Name": "Sucre",
+        "MinorUnits": null
+    },
+    {
+        "Number": 978,
+        "Code": "EUR",
+        "Country": "SLOVAKIA",
+        "Symbol": "€",
+        "Name": "Euro",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 978,
+        "Code": "EUR",
+        "Country": "SLOVENIA",
+        "Symbol": "€",
+        "Name": "Euro",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 90,
+        "Code": "SBD",
+        "Country": "SOLOMON ISLANDS",
+        "Symbol": "$",
+        "Name": "Solomon Islands Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 706,
+        "Code": "SOS",
+        "Country": "SOMALIA",
+        "Symbol": null,
+        "Name": "Somali Shilling",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 710,
+        "Code": "ZAR",
+        "Country": "SOUTH AFRICA",
+        "Symbol": "R",
+        "Name": "Rand",
+        "MinorUnits": 2
+    },
+    {
+        "Number": null,
+        "Code": null,
+        "Country": "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS",
+        "Symbol": null,
+        "Name": "No universal currency",
+        "MinorUnits": null
+    },
+    {
+        "Number": 728,
+        "Code": "SSP",
+        "Country": "SOUTH SUDAN",
+        "Symbol": "£",
+        "Name": "South Sudanese Pound",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 978,
+        "Code": "EUR",
+        "Country": "SPAIN",
+        "Symbol": "€",
+        "Name": "Euro",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 144,
+        "Code": "LKR",
+        "Country": "SRI LANKA",
+        "Symbol": "Rs",
+        "Name": "Sri Lanka Rupee",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 938,
+        "Code": "SDG",
+        "Country": "SUDAN (THE)",
+        "Symbol": null,
+        "Name": "Sudanese Pound",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 968,
+        "Code": "SRD",
+        "Country": "SURINAME",
+        "Symbol": "$",
+        "Name": "Surinam Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 578,
+        "Code": "NOK",
+        "Country": "SVALBARD AND JAN MAYEN",
+        "Symbol": "kr",
+        "Name": "Norwegian Krone",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 748,
+        "Code": "SZL",
+        "Country": "SWAZILAND",
+        "Symbol": null,
+        "Name": "Lilangeni",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 752,
+        "Code": "SEK",
+        "Country": "SWEDEN",
+        "Symbol": "kr",
+        "Name": "Swedish Krona",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 947,
+        "Code": "CHE",
+        "Country": "SWITZERLAND",
+        "Symbol": null,
+        "Name": "WIR Euro",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 756,
+        "Code": "CHF",
+        "Country": "SWITZERLAND",
+        "Symbol": null,
+        "Name": "Swiss Franc",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 948,
+        "Code": "CHW",
+        "Country": "SWITZERLAND",
+        "Symbol": null,
+        "Name": "WIR Franc",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 760,
+        "Code": "SYP",
+        "Country": "SYRIAN ARAB REPUBLIC",
+        "Symbol": "£",
+        "Name": "Syrian Pound",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 901,
+        "Code": "TWD",
+        "Country": "TAIWAN (PROVINCE OF CHINA)",
+        "Symbol": "$",
+        "Name": "New Taiwan Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 972,
+        "Code": "TJS",
+        "Country": "TAJIKISTAN",
+        "Symbol": null,
+        "Name": "Somoni",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 834,
+        "Code": "TZS",
+        "Country": "TANZANIA, UNITED REPUBLIC OF",
+        "Symbol": null,
+        "Name": "Tanzanian Shilling",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 764,
+        "Code": "THB",
+        "Country": "THAILAND",
+        "Symbol": "฿",
+        "Name": "Baht",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 840,
+        "Code": "USD",
+        "Country": "TIMOR-LESTE",
+        "Symbol": "$",
+        "Name": "US Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 952,
+        "Code": "XOF",
+        "Country": "TOGO",
+        "Symbol": null,
+        "Name": "CFA Franc BCEAO",
+        "MinorUnits": 0
+    },
+    {
+        "Number": 554,
+        "Code": "NZD",
+        "Country": "TOKELAU",
+        "Symbol": "$",
+        "Name": "New Zealand Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 776,
+        "Code": "TOP",
+        "Country": "TONGA",
+        "Symbol": "T$",
+        "Name": "Pa’anga",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 780,
+        "Code": "TTD",
+        "Country": "TRINIDAD AND TOBAGO",
+        "Symbol": "$",
+        "Name": "Trinidad and Tobago Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 788,
+        "Code": "TND",
+        "Country": "TUNISIA",
+        "Symbol": null,
+        "Name": "Tunisian Dinar",
+        "MinorUnits": 3
+    },
+    {
+        "Number": 949,
+        "Code": "TRY",
+        "Country": "TURKEY",
+        "Symbol": "₺",
+        "Name": "Turkish Lira",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 934,
+        "Code": "TMT",
+        "Country": "TURKMENISTAN",
+        "Symbol": null,
+        "Name": "Turkmenistan New Manat",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 840,
+        "Code": "USD",
+        "Country": "TURKS AND CAICOS ISLANDS (THE)",
+        "Symbol": "$",
+        "Name": "US Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 36,
+        "Code": "AUD",
+        "Country": "TUVALU",
+        "Symbol": "$",
+        "Name": "Australian Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 800,
+        "Code": "UGX",
+        "Country": "UGANDA",
+        "Symbol": null,
+        "Name": "Uganda Shilling",
+        "MinorUnits": 0
+    },
+    {
+        "Number": 980,
+        "Code": "UAH",
+        "Country": "UKRAINE",
+        "Symbol": "₴",
+        "Name": "Hryvnia",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 784,
+        "Code": "AED",
+        "Country": "UNITED ARAB EMIRATES (THE)",
+        "Symbol": null,
+        "Name": "UAE Dirham",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 826,
+        "Code": "GBP",
+        "Country": "UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND (THE)",
+        "Symbol": "£",
+        "Name": "Pound Sterling",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 840,
+        "Code": "USD",
+        "Country": "UNITED STATES MINOR OUTLYING ISLANDS (THE)",
+        "Symbol": "$",
+        "Name": "US Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 840,
+        "Code": "USD",
+        "Country": "UNITED STATES OF AMERICA (THE)",
+        "Symbol": "$",
+        "Name": "US Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 997,
+        "Code": "USN",
+        "Country": "UNITED STATES OF AMERICA (THE)",
+        "Symbol": null,
+        "Name": "US Dollar (Next day)",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 940,
+        "Code": "UYI",
+        "Country": "URUGUAY",
+        "Symbol": null,
+        "Name": "Uruguay Peso en Unidades Indexadas (URUIURUI)",
+        "MinorUnits": 0
+    },
+    {
+        "Number": 858,
+        "Code": "UYU",
+        "Country": "URUGUAY",
+        "Symbol": "$",
+        "Name": "Peso Uruguayo",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 860,
+        "Code": "UZS",
+        "Country": "UZBEKISTAN",
+        "Symbol": null,
+        "Name": "Uzbekistan Sum",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 548,
+        "Code": "VUV",
+        "Country": "VANUATU",
+        "Symbol": null,
+        "Name": "Vatu",
+        "MinorUnits": 0
+    },
+    {
+        "Number": 937,
+        "Code": "VEF",
+        "Country": "VENEZUELA (BOLIVARIAN REPUBLIC OF)",
+        "Symbol": "Bs",
+        "Name": "Bolivar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 704,
+        "Code": "VND",
+        "Country": "VIET NAM",
+        "Symbol": "₫",
+        "Name": "Dong",
+        "MinorUnits": 0
+    },
+    {
+        "Number": 840,
+        "Code": "USD",
+        "Country": "VIRGIN ISLANDS (BRITISH)",
+        "Symbol": "$",
+        "Name": "US Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 840,
+        "Code": "USD",
+        "Country": "VIRGIN ISLANDS (U.S.)",
+        "Symbol": "$",
+        "Name": "US Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 953,
+        "Code": "XPF",
+        "Country": "WALLIS AND FUTUNA",
+        "Symbol": null,
+        "Name": "CFP Franc",
+        "MinorUnits": 0
+    },
+    {
+        "Number": 504,
+        "Code": "MAD",
+        "Country": "WESTERN SAHARA",
+        "Symbol": null,
+        "Name": "Moroccan Dirham",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 886,
+        "Code": "YER",
+        "Country": "YEMEN",
+        "Symbol": null,
+        "Name": "Yemeni Rial",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 967,
+        "Code": "ZMW",
+        "Country": "ZAMBIA",
+        "Symbol": "ZK",
+        "Name": "Zambian Kwacha",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 932,
+        "Code": "ZWL",
+        "Country": "ZIMBABWE",
+        "Symbol": null,
+        "Name": "Zimbabwe Dollar",
+        "MinorUnits": 2
+    },
+    {
+        "Number": 955,
+        "Code": "XBA",
+        "Country": "ZZ01_Bond Markets Unit European_EURCO",
+        "Symbol": null,
+        "Name": "Bond Markets Unit European Composite Unit (EURCO)",
+        "MinorUnits": null
+    },
+    {
+        "Number": 956,
+        "Code": "XBB",
+        "Country": "ZZ02_Bond Markets Unit European_EMU-6",
+        "Symbol": null,
+        "Name": "Bond Markets Unit European Monetary Unit (E.M.U.-6)",
+        "MinorUnits": null
+    },
+    {
+        "Number": 957,
+        "Code": "XBC",
+        "Country": "ZZ03_Bond Markets Unit European_EUA-9",
+        "Symbol": null,
+        "Name": "Bond Markets Unit European Unit of Account 9 (E.U.A.-9)",
+        "MinorUnits": null
+    },
+    {
+        "Number": 958,
+        "Code": "XBD",
+        "Country": "ZZ04_Bond Markets Unit European_EUA-17",
+        "Symbol": null,
+        "Name": "Bond Markets Unit European Unit of Account 17 (E.U.A.-17)",
+        "MinorUnits": null
+    },
+    {
+        "Number": 963,
+        "Code": "XTS",
+        "Country": "ZZ06_Testing_Code",
+        "Symbol": null,
+        "Name": "Codes specifically reserved for testing purposes",
+        "MinorUnits": null
+    },
+    {
+        "Number": 999,
+        "Code": "XXX",
+        "Country": "ZZ07_No_Currency",
+        "Symbol": null,
+        "Name": "The codes assigned for transactions where no currency is involved",
+        "MinorUnits": null
+    },
+    {
+        "Number": 959,
+        "Code": "XAU",
+        "Country": "ZZ08_Gold",
+        "Symbol": null,
+        "Name": "Gold",
+        "MinorUnits": null
+    },
+    {
+        "Number": 964,
+        "Code": "XPD",
+        "Country": "ZZ09_Palladium",
+        "Symbol": null,
+        "Name": "Palladium",
+        "MinorUnits": null
+    },
+    {
+        "Number": 962,
+        "Code": "XPT",
+        "Country": "ZZ10_Platinum",
+        "Symbol": null,
+        "Name": "Platinum",
+        "MinorUnits": null
+    },
+    {
+        "Number": 961,
+        "Code": "XAG",
+        "Country": "ZZ11_Silver",
+        "Symbol": null,
+        "Name": "Silver",
+        "MinorUnits": null
+    }
+]
